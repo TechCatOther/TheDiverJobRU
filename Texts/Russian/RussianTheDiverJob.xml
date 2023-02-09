@@ -7,10 +7,10 @@
   <talentdescription.treadingwater>Вы плаваете на [amount]% быстрее.</talentdescription.treadingwater>
   <talentname.excavator>Землекоп</talentname.excavator>
   <talentdescription.excavator>Завершение миссиий добычи дает на [amount]% больше опыта.</talentdescription.excavator>
-  <talentname.leasureflyer>Браконьер</talentname.leasureflyer>
-  <talentdescription.leasureflyer>Получаете [amount] опыта за убийство монстра, максимум [amount2].</talentdescription.leasureflyer>
-  <talentname.callused>Мозолистый</talentname.callused>
-  <talentdescription.callused>Кровотечение становиться в два раза слабее.</talentdescription.callused>
+  <talentname.poacher>Браконьер</talentname.poacher>
+  <talentdescription.poacher>Получаете [amount] опыта за убийство монстра, максимум [amount2].</talentdescription.poacher>
+  <talentname.calloused>Мозолистый</talentname.calloused>
+  <talentdescription.calloused>Кровотечение становиться в два раза слабее.</talentdescription.calloused>
   <talentname.coretraining>Основная подготовка</talentname.coretraining>
   <talentdescription.coretraining>Получаете [amount]% здоровья.</talentdescription.coretraining>
   <!-- Level 2 options -->
@@ -20,33 +20,33 @@
   <talentdescription.extractor>Перетаскивая человека в открытом море, двигаетесь на [amount]% быстрее и больше не замедляетесь от веса тел.</talentdescription.extractor>
   <talentname.stifle>Подавление</talentname.stifle>
   <talentdescription.stifle>Ваши товарищи без сознания не кровоточат в пока в воде.</talentdescription.stifle>
-  <talentname.Hullmaintence>Обслуживание корпуса</talentname.Hullmaintence>
-  <talentdescription.Hullmaintence>Даёт дополнительно [amount] механики, ремонт на [amount2]% быстрее.</talentdescription.Hullmaintence>
-  <talentname.Hydrophobic>Гидрофобный</talentname.Hydrophobic>
-  <talentdescription.Hydrophobic>Дает [amount]% сопротивление потоку.</talentdescription.Hydrophobic>
+  <talentname.hullmaintence>Обслуживание корпуса</talentname.hullmaintence>
+  <talentdescription.hullmaintence>Даёт дополнительно [amount] механики, ремонт на [amount2]% быстрее.</talentdescription.hullmaintence>
+  <talentname.hydrophobic>Гидрофобный</talentname.hydrophobic>
+  <talentdescription.hydrophobic>Дает [amount]% сопротивление потоку.</talentdescription.hydrophobic>
   <!-- Tree 1 -->
-  <talenttree.BigGameHunter>Охотник на крупную дичь</talenttree.BigGameHunter>
+  <talenttree.biggamehunter>Охотник на крупную дичь</talenttree.biggamehunter>
   <talentname.deadlystab>Смертельный удар</talentname.deadlystab>
   <talentdescription.deadlystab>Наносите на [amount]% больше урона в ближем бою пока в открытом море.</talentdescription.deadlystab>
   <talentdescription.deadlystabharpoon>Наносите на ‖color:gui.green‖10%‖end‖ больше урона гарпуном.</talentdescription.deadlystabharpoon>
   <talentname.ScaleSkin>Чешуйчатая кожа</talentname.ScaleSkin>
   <talentdescription.ScaleSkin>Быстро исцеляется после получения урона от монстра.</talentdescription.ScaleSkin>
-  <talentname.recklessunabandon>Безрассудный</talentname.recklessunabandon>
-  <talentdescription.recklessunabandon>Увеличивает урон на [amount]% за каждого врага рядом, максимум [amount2]%.</talentdescription.recklessunabandon>
+  <talentname.reckless>Безрассудный</talentname.reckless>
+  <talentdescription.reckless>Увеличивает урон на [amount]% за каждого врага рядом, максимум [amount2]%.</talentdescription.reckless>
   <talentname.dazeproof>Ударопрочный</talentname.dazeproof>
   <talentdescription.dazeproof>Становитесь невосприимчивы к оглушениям.</talentdescription.dazeproof>
   <talentname.activeparry>Активное парирование</talentname.activeparry>
   <talentdescription.activeparry>Получаете на [amount]% меньше урона во время прицеливания.</talentdescription.activeparry>
   <talentdescription.activeparry2nd>Дополнительно увеличивает сопротивление урону на [amount]% при использовании оружия ближнего боя.</talentdescription.activeparry2nd>
   <talentname.Ares>Арес</talentname.Ares>
-  <talentdescription.Ares>Наносите увеличенный на [amount]% урон по большим монстрам оружем ближнего боя.</talentdescription.Ares>
+  <talentdescription.Ares>Наносите увеличенный на [amount]% урон по большим монстрам оружием ближнего боя.</talentdescription.Ares>
   <talentdescription.AresHarpoon>Наносите на ‖color:gui.green‖50%‖end‖ больше урона гарпуном большим монстрам.</talentdescription.AresHarpoon>
   <talentname.Artemis>Артемида</talentname.Artemis>
-  <talentdescription.Artemis>Наносите увеличенный на [amount]% урон по маленьким и средним монстрам оружем ближнего боя.</talentdescription.Artemis>
+  <talentdescription.Artemis>Наносите увеличенный на [amount]% урон по маленьким и средним монстрам оружием ближнего боя.</talentdescription.Artemis>
   <talentdescription.ArtemisHarpoon>Наносите на ‖color:gui.green‖15%‖end‖ больше урона гарпуном тем же монстрам.</talentdescription.ArtemisHarpoon>
   <talentdescription.Artemisdmr>Получаете на ‖color:gui.green‖25%‖end‖ меньше урона.</talentdescription.Artemisdmr>
   <!-- Tree 2 -->
-  <talenttree.Pathfinder>Следопыт</talentname.Pathfinder>
+  <talenttree.Pathfinder>Следопыт</talenttree.Pathfinder>
   <talentname.Trailblazer>Первопроходец</talentname.Trailblazer>
   <talentdescription.Trailblazer>Вы плаваете на [amount]% быстрее.</talentdescription.Trailblazer>
   <talentdescription.Trailblazer2nd>Увеличивает максимальную скорость подлодки на [amount2]%.</talentdescription.Trailblazer2nd>
@@ -59,37 +59,51 @@
   <talentname.LivingFigurehead>Живая носовая фигура</talentname.LivingFigurehead>
   <talentdescription.LivingFigurehead>Когда отплываете от подлодки, команда получает ускорение на [amount]% скорости ремонта и сварки.</talentdescription.LivingFigurehead>
   <talentname.frugality>Бережливость</talentname.frugality>
-  <talentdescription.frugality>При использовании лечащих преметов есть [amount]% шанс вернуть их назад.</talentdescription.frugality>
+  <talentdescription.frugality>При использовании лечащих предметов есть [amount]% шанс вернуть их назад.</talentdescription.frugality>
   <talentname.PhysicoriumFlare>Физикориевый сигнальный огонь</talentname.PhysicoriumFlare>
-  <talentdescription.PhysicoriumFlare>Разблокирует рецепт:[itemname] - яркий огонь, привлекающющий монстров на карте.</talentdescription.PhysicoriumFlare>
+  <talentdescription.PhysicoriumFlare>Разблокирует рецепт:[itemname] - яркий огонь, привлекающий монстров на карте.</talentdescription.PhysicoriumFlare>
   <talentdescription.PhysicoriumFlare2nd>Дает дополнительно [amount]% скорости плаванья.</talentdescription.PhysicoriumFlare2nd>
-  <talentdescription.PhysicoriumFlare3rd>Подлока увеличивает на [amount2]% максимальную скорость.</talentdescription.PhysicoriumFlare3rd>
+  <talentdescription.PhysicoriumFlare3rd>Подлодка увеличивает на [amount2]% максимальную скорость.</talentdescription.PhysicoriumFlare3rd>
   <!-- Tree 3 -->
+  <talenttree.firstaid>Первая помощь</talenttree.firstaid>
   <talentname.FACertified>Сертификат П.П.</talentname.FACertified>
-  <talentdescription.FACertified>Получаете [amount] наывка медицины, ускоряет СЛР.</talentdescription.FACertified>
+  <talentdescription.FACertified>Получаете [amount] навыка медицины, ускоряет СЛР.</talentdescription.FACertified>
   <talentname.TopUp>Пополнение</talentname.TopUp>
-  <talentdescription.TopUp>Эффекты лечения на [amount]% сильнее. Лечение кого-либо дает долговременниый лечаший эффект.</talentdescription.TopUp>
+  <talentdescription.TopUp>Эффекты лечения на [amount]% сильнее. Лечение кого-либо дает долговременный лечащий эффект.</talentdescription.TopUp>
   <talentname.ForeignExchange>Валютная биржа</talentname.ForeignExchange>
   <talentname.Abyss>Я заглянул в бездну</talentname.Abyss>
   <talentdescription.Abyss>Нанесение урона Смотрителю из не турельного оружия увеличивает сопротивление психозу, скорость и силу вашему экипажу.</talentdescription.Abyss>
   <talentname.LastStretch>Последний рывок</talentname.LastStretch>
-  <talentdescription.LastStretch>Дает на [amount]% больше скорости предвижение за каждый [amount2]% отсутсвующего здоровья.</talentdescription.LastStretch>
+  <talentdescription.LastStretch>Дает на [amount]% больше скорости передвижения за каждый [amount2]% отсутствующего здоровья.</talentdescription.LastStretch>
   <!-- Affliction -->
+  <afflictionname.AlienDelverAffliction>Копатель чужих</afflictionname.AlienDelverAffliction>
+  <afflictiondescription.AlienDelverAffliction>Опытный исследователь руин чужих, дает советы экипажу при работе с ними. Что дает дополнительный опыт и защиту от ожогов</afflictiondescription.AlienDelverAffliction>
+  <afflictiondescription.AlienDelverAffliction.self>Вы, как опытный исследователь руин чужих, помогаете экипажу при их исследованиях. Что дает дополнительный опыт и защиту от ожогов</afflictiondescription.AlienDelverAffliction.self>
   <afflictionname.TopUpAffliction>Пополнение</afflictionname.TopUpAffliction>
+  <afflictiondescription.TopUpAffliction></afflictiondescription.TopUpAffliction>
+  <afflictiondescription.TopUpAffliction.self></afflictiondescription.TopUpAffliction.self>
   <afflictionname.ScaleSkinAffliction>Чешуйчатая кожа</afflictionname.ScaleSkinAffliction>
-  <afflictiondescription.ScaleSkinAffliction>Быстрое исцеление после получения урона</afflictiondescription.ScaleSkinAffliction>
+  <afflictiondescription.scaleskinaffliction>Его кожа покрыта чешуей, что позволяет ему быстрее исцеляться</afflictiondescription.scaleskinaffliction>
+  <afflictiondescription.scaleskinaffliction.self>Ваша кожа покрыта чешуей, что позволяет вам быстрее исцеляться</afflictiondescription.scaleskinaffliction.self>
   <afflictionname.hydrotherapy>Гидротерапия</afflictionname.hydrotherapy>
-  <afflictiondescription.hydrotherapy>Нахождение в воде лечит ожоги, кровотечения и порезы</afflictiondescription.hydrotherapy>
+  <afflictiondescription.hydrotherapy>Находясь в воде он лечит ожоги, кровотечения и порезы</afflictiondescription.hydrotherapy>
+  <afflictiondescription.hydrotherapy.self>Находясь в воде вы лечите ожоги, кровотечения и порезы</afflictiondescription.hydrotherapy.self>
   <afflictionname.leadingexampleaffliction>Живая носовая фигура</afflictionname.leadingexampleaffliction>
+  <afflictiondescription.leadingexampleaffliction></afflictiondescription.leadingexampleaffliction>
+  <afflictiondescription.leadingexampleaffliction.self></afflictiondescription.leadingexampleaffliction.self>
   <afflictionname.StifleAffliction>Подавление</afflictionname.StifleAffliction>
-  <afflictiondescription.StifleAffliction>Без сознания нет кровотечения в воде</afflictiondescription.StifleAffliction>
+  <afflictiondescription.StifleAffliction>Перенося людей без сознания в воде, он способен останавливать кровотечение</afflictiondescription.StifleAffliction>
+  <afflictiondescription.StifleAffliction.self>Вы умеете останавливать кровотечение в воде. Перенося людей без сознания в воде, они перестают кровоточить</afflictiondescription.StifleAffliction.self>
   <afflictionname.Extraction>Спасение</afflictionname.Extraction>
-  <afflictiondescription.Extraction>Вы двигаетесь в воде быстрее и переносите людей без потери скорости</afflictiondescription.Extraction>
+  <afflictiondescription.extraction>Он двигается в воде быстрее и умеет переносить людей без потери скорости</afflictiondescription.extraction>
+  <afflictiondescription.extraction.self>Вы двигаетесь в воде быстрее и умеете переносить людей без потери скорости</afflictiondescription.extraction.self>
   <afflictionname.dazeproofed>Ударопрочный!</afflictionname.dazeproofed>
-  <afflictiondescription.dazeproofed>Невосприимчивы к оглушению</afflictiondescription.dazeproofed>
+  <afflictiondescription.dazeproofed>Невосприимчив к оглушению</afflictiondescription.dazeproofed>
+  <afflictiondescription.dazeproofed.self>Вы невосприимчивы к оглушению</afflictiondescription.dazeproofed.self>
   <afflictionname.AbyssAffliction>Отраженный взгляд</afflictionname.AbyssAffliction>
-  <afflictiondescription.AbyssAffliction>После удара по Смотрителю увеличивается сопротивление психозу, скорость и сила</afflictiondescription.AbyssAffliction>
+  <afflictiondescription.AbyssAffliction>Встреча с Смотрителем только придает ему уверенности</afflictiondescription.AbyssAffliction>
+  <afflictiondescription.AbyssAffliction.self>Вы готовы  к встрече со Смотрителем, что дает вам сопротивление к психозу, скорость и силу</afflictiondescription.AbyssAffliction.self>
   <!-- Items -->
   <entityname.PFlare>Физикориевый сигнальный огонь</entityname.PFlare>
-  <entitydescription.PFlare>Чрезвычайно взрывоопасный сигнальный огонь. Используете с ЭКСКРИМАЛЬНОЙ осторожностью. Привлечёт монстров с эксктримально большого радиуса.</entitydescription.PFlare>
+  <entitydescription.PFlare>Чрезвычайно взрывоопасный сигнальный огонь. Используете с ЭКСТРЕМАЛЬНОЙ осторожностью. Привлечёт монстров с экстремально большого радиуса.</entitydescription.PFlare>
 </infotexts>
