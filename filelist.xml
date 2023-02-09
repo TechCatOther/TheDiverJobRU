@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="The Diver Job RU"  corepackage="false" modversion="1.0" gameversion="0.21.6.0">
+<contentpackage name="The Diver Job RU" modversion="1.1" corepackage="False" steamworkshopid="2930582308" gameversion="0.21.6.0">
   <Text file="%ModDir%/Texts/Russian/RussianTheDiverJob.xml" />
 </contentpackage>
