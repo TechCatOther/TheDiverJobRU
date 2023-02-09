@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <jobname.diver>Водолаз</jobname.diver>
+  <jobdescription.diver>Ориентированный на то, чтобы проводить больше времени вне судна. Водолаз может самостоятельно находиться вне подлодки, помогая тем, кто остался внутри.</jobdescription.diver>
+  <!-- Level 1 options -->
+  <talentname.treadingwater>Держаться на плаву</talentname.treadingwater>
+  <talentdescription.treadingwater>Вы плаваете на [amount]% быстрее.</talentdescription.treadingwater>
+  <talentname.excavator>Землекоп</talentname.excavator>
+  <talentdescription.excavator>Завершение миссиий добычи дает на [amount]% больше опыта.</talentdescription.excavator>
+  <talentname.leasureflyer>Браконьер</talentname.leasureflyer>
+  <talentdescription.leasureflyer>Получаете [amount] опыта за убийство монстра, максимум [amount2].</talentdescription.leasureflyer>
+  <talentname.callused>Мозолистый</talentname.callused>
+  <talentdescription.callused>Кровотечение становиться в два раза слабее.</talentdescription.callused>
+  <talentname.coretraining>Основная подготовка</talentname.coretraining>
+  <talentdescription.coretraining>Получаете [amount]% здоровья.</talentdescription.coretraining>
+  <!-- Level 2 options -->
+  <talentname.aliendelver>Копатель чужих</talentname.aliendelver>
+  <talentdescription.aliendelver>Ваша команда получает на [amount]% меньше ожогов. Ваша команда получит дополнительно [amount2]% опыта, если никто не умрет и вы выполните миссию по очистке руин.</talentdescription.aliendelver>
+  <talentname.extractor>Вытаскиватель</talentname.extractor>
+  <talentdescription.extractor>Перетаскивая человека в открытом море, двигаетесь на [amount]% быстрее и больше не замедляетесь от веса тел.</talentdescription.extractor>
+  <talentname.stifle>Подавление</talentname.stifle>
+  <talentdescription.stifle>Ваши товарищи без сознания из кровоточат в пока в воде.</talentdescription.stifle>
+  <talentname.Hullmaintence>Обслуживание корпуса</talentname.Hullmaintence>
+  <talentdescription.Hullmaintence>Даёт дополнительно [amount] механики, ремонт на [amount2]% быстрее.</talentdescription.Hullmaintence>
+  <talentname.Hydrophobic>Гидрофобный</talentname.Hydrophobic>
+  <talentdescription.Hydrophobic>Дает [amount]% сопротивление потоку.</talentdescription.Hydrophobic>
+  <!-- Tree 1 -->
+  <talentname.swingingarm>Смертельный удар</talentname.swingingarm>
+  <talentdescription.swingingarm>Наносите на [amount]% больше урона в ближем бою пока в открытом море.</talentdescription.swingingarm>
+  <talentdescription.swingingarmharpoon>Наносите на ‖color:gui.green‖10%‖end‖ больше урона гарпуном.</talentdescription.swingingarmharpoon>
+  <talentname.ScaleSkin>Чешуйчатая кожа</talentname.ScaleSkin>
+  <talentdescription.ScaleSkin>Быстро исцеляется после получения урона от монстра.</talentdescription.ScaleSkin>
+  <talentname.recklessunabandon>Безрассудный</talentname.recklessunabandon>
+  <talentdescription.recklessunabandon>Увеличивает урон на [amount]% за каждого врага рядом, максимум [amount2]%.</talentdescription.recklessunabandon>
+  <talentname.dazeproof>Ударопрочный</talentname.dazeproof>
+  <talentdescription.dazeproof>Становитесь невосприимчивы к оглушениям.</talentdescription.dazeproof>
+  <talentname.forwardscout>Активное парирование</talentname.forwardscout>
+  <talentdescription.forwardscout>Получаете на [amount]% меньше урона во время прицеливания.</talentdescription.forwardscout>
+  <talentdescription.forwardscout2nd>Дополнительно увеличивает сопротивление урону на [amount]% при использовании оружия ближнего боя.</talentdescription.forwardscout2nd>
+  <talentname.Ares>Арес</talentname.Ares>
+  <talentdescription.Ares>Наносите увеличенный на [amount]% урон по большим монстрам оружем ближнего боя.</talentdescription.Ares>
+  <talentdescription.AresHarpoon>Наносите на ‖color:gui.green‖50%‖end‖ больше урона гарпуном большим монстрам.</talentdescription.AresHarpoon>
+  <talentname.Artemis>Артемида</talentname.Artemis>
+  <talentdescription.Artemis>Наносите увеличенный на [amount]% урон по маленьким и средним монстрам оружем ближнего боя.</talentdescription.Artemis>
+  <talentdescription.ArtemisHarpoon>Наносите на ‖color:gui.green‖15%‖end‖ больше урона гарпуном тем же монстрам.</talentdescription.ArtemisHarpoon>
+  <talentdescription.Artemisdmr>Получаете на ‖color:gui.green‖25%‖end‖ меньше урона.</talentdescription.Artemisdmr>
+  <!-- Tree 2 -->
+  <talentname.Trailblazer>Первопроходец</talentname.Trailblazer>
+  <talentdescription.Trailblazer>Вы плаваете на [amount]% быстрее.</talentdescription.Trailblazer>
+  <talentdescription.Trailblazer2nd>Увеличивает максимальную скорость подлодки на [amount2]%.</talentdescription.Trailblazer2nd>
+  <talentname.Panic>Паника</talentname.Panic>
+  <talentdescription.Panic>Когда вы получаете урон скорость передвижения увеличивается на [amount]%.</talentdescription.Panic>
+  <talentname.hydrotherapy>Гидротерапия</talentname.hydrotherapy>
+  <talentdescription.hydrotherapy>Плавание в открытом море лечит ваши ожоги, кровотечения и порезы.</talentdescription.hydrotherapy>
+  <talentname.Plunder>Грабитель</talentname.Plunder>
+  <talentdescription.Plunder>Разграбление монстров и грузов дает шанс получить дополнительную добычу, в зависимости от того, что было разграблено.</talentdescription.Plunder>
+  <talentname.LivingFigurehead>Живая носовая фигура</talentname.LivingFigurehead>
+  <talentdescription.LivingFigurehead>Когда отплываете от подлодки, команда получает ускорение на [amount]% скорости ремонта и сварки.</talentdescription.LivingFigurehead>
+  <talentname.frugality>Бережливость</talentname.frugality>
+  <talentdescription.frugality>При использовании лечащих преметов есть [amount]% шанс вернуть их назад.</talentdescription.frugality>
+  <talentname.PsychariumFlare>Физикориевый сигнальный огонь</talentname.PsychariumFlare>
+  <talentdescription.PsychariumFlare>Разблокирует рецепт:[itemname] - яркий огонь, привлекающющий монстров на карте.</talentdescription.PsychariumFlare>
+  <talentdescription.PsychariumFlare2nd>Дает дополнительно [amount]% скорости плаванья.</talentdescription.PsychariumFlare2nd>
+  <talentdescription.PsychariumFlare3rd>Подлока увеличивает на [amount2]% максимальную скорость.</talentdescription.PsychariumFlare3rd>
+  <!-- Tree 3 -->
+  <talentname.FACertified>Сертификат П.П.</talentname.FACertified>
+  <talentdescription.FACertified>Получаете [amount] наывка медицины, ускоряет СЛР.</talentdescription.FACertified>
+  <talentname.TopUp>Пополнение</talentname.TopUp>
+  <talentdescription.TopUp>Эффекты лечения на [amount]% сильнее. Лечение кого-либо дает долговременниый лечаший эффект.</talentdescription.TopUp>
+  <talentname.ForeignExchange>Валютная биржа</talentname.ForeignExchange>
+  <talentname.Abyss>Я заглянул в бездну</talentname.Abyss>
+  <talentdescription.Abyss>Нанесение урона Смотрителю из не турельного оружия увеличивает сопротивление психозу, скорость и силу вашему экипажу.</talentdescription.Abyss>
+  <talentname.LastStretch>Последний рывок</talentname.LastStretch>
+  <talentdescription.LastStretch>Дает на [amount]% больше скорости предвижение за каждый [amount2]% отсутсвующего здоровья.</talentdescription.LastStretch>
+  <afflictionname.TopUpAffliction>Пополнение</afflictionname.TopUpAffliction>
+  <afflictionname.ScaleSkinAffliction>Чешуйчатая кожа</afflictionname.ScaleSkinAffliction>
+  <afflictionname.hydrotherapy>Гидротерапия</afflictionname.hydrotherapy>
+  <afflictionname.leadingexample>Передовой разведчик</afflictionname.leadingexample>
+  <afflictionname.StifleAffliction>Подавление</afflictionname.StifleAffliction>
+  <afflictionname.Extraction>Вытаскивание</afflictionname.Extraction>
+  <afflictionname.dazeproofed>Ударопрочный!</afflictionname.dazeproofed>
+  <afflictionname.AbyssAffliction>Отраженный взгляд</afflictionname.AbyssAffliction>
+  <entityname.PFlare>Физикориевый сигнальный огонь</entityname.PFlare>
+  <entitydescription.PFlare>Чрезвычайно взрывоопасный сигнальный огонь. Используете с ЭКСКРИМАЛЬНОЙ осторожностью. Привлечёт монстров с эксктримально большого радиуса.</entitydescription.PFlare>
+</infotexts>
